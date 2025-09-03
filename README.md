@@ -1,1 +1,2 @@
-# Project_01
+# Currency Converter
+Currency converter is an application that allows you to convert the value of one currency into another. It provides exchange rates between different currencies, enabling users to quickly and easily determine the equivalent value of a specific amount in one currency in terms of another currency. Currency converter is a versatile tool that facilitate financial decision-making in a globalized world where currencies constantly fluctuate in value. They provide quick and easy access to real-time exchange rate information, enabling individuals and businesses to navigate international transactions more efficiently.
